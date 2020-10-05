@@ -1,0 +1,24 @@
+
+	CMD = "WMIC" Press enter, Then Type: "Diskdrive get status". To check "Smart Health"					Network Hotwords
+	CMD = "CHKDSK", to Check the Disk.  											TTL - Time to live/hops
+	CMD = "Netsh Wlan Get Profiles"? ????                                                         UDP
+	CMD = "Netsh Wlan Show networks mode=bssid" Show hidden networks/ info											  UDP
+	CMD = Type - "sfc /scannow" to Scan File errors. "Must Run As administrator"						      TCP
+	CMD = MD = Make directory.
+	CMD = To shutdown using a timer Type, "shutdown -s -t" +"the number of seconds until desired shutdown."
+	CMD = "Cipher /E" to Encrypt Files "must be in the working directory that will be encrypted"
+	CMD = "/?" or "help" on any command
+	CMD = Type "Title" and then the title you want the CMD window to display" press enter.
+	CMD = Nav. to directory, Type "Attrib +h +s +r" followed by the Folder name to Hide
+						Change +/- to Unhide...........
+	"F7" Opens Used Commands in CMD for that session.
+	CMD = "IpConfig"??????
+	CMD = "IPconfig/all"
+	CMD = "net view" ?
+	CMD = "nestat"?
+	CMD = "Cls" = Clears the current screen.
+	CMD = Type "Ping" and any website to get its IP address.
+	CMD = 2 part Cmd command. Type "ipconfig | clip' Press enter then type "Notepad.exe" Should open the application with info
+													If it has worked.
+	CMD = Drag and drop any folder into CMD to open that directory/File/Folder. etc.
+	CMD =
